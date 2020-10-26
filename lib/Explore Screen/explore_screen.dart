@@ -181,14 +181,6 @@ class _ExploreScreenState extends State<ExploreScreen> {
                                 ),
                               ),
                     )
-                        // ListTile(
-                        //   title: Text(post.title),
-                        //   subtitle: Image.network("https://upload.wikimedia.org/wikipedia/commons/1/12/K2_2006b.jpg"),
-                        //   onTap: () => Navigator.push(context,
-                        //     MaterialPageRoute(builder: (context) => ProfileScreen()
-                        //     )
-                        //     ),
-                        // )
                         )
                     .toList(),
               );
